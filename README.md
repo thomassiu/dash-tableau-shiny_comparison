@@ -1,6 +1,6 @@
-# dash-tableau-shiny_comparison
+# Dashboard technology comparison: Dash, Tableau and Shiny
+### A research effort by the students of DSCI 532 MDS 2021/2022 
 
-DSCI 532 comparison among technologies
 
 
 |     | Dash | Tableau | Shiny |
