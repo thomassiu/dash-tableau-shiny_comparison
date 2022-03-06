@@ -1,5 +1,5 @@
 # Dashboard technology comparison: Dash, Tableau and Shiny
-### Research carried out by the students of DSCI 532 MDS 2021/2022 
+### Research carried out by DSCI 532 MDS 2021/2022 students 
 
 * Cite your sources everytime you can.
 
